@@ -25,8 +25,8 @@ aboutMe = {
 ```
 -->
 - I'm from Guadalajara, México 
-- I'm graduated as Technologist in Software Development from Centro de Enseñanza Técnica Industrial
-- I'm studying Studying Computer Engineering at Universidad de Guadalajara
+- I'm graduated as a Technologist in Software Development from Industrial Technical Education Center (CETI)
+- I'm studying Computer Engineering at University of Guadalajara (CUCEI)
 
 ## What I've been doing ![image](./img/Nico-caminando-smaller.gif)
 - 🎮 I participated in the development of a [game](https://github.com/MichelOrtiz/FinalProject) made with Unity 
@@ -36,6 +36,7 @@ aboutMe = {
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
