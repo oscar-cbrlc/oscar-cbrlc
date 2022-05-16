@@ -30,7 +30,7 @@ aboutMe = {
 
 ## What I've been doing ![image](./img/Nico-caminando-smaller.gif)
 - 🎮 I participated in the development of a [game](https://github.com/MichelOrtiz/FinalProject) made with Unity 
-- 💪 I'm currently learning fullstack web development
+- 💪 I'm currently learning fullstack web development<br>
 
 ## Languages and Technologies
 <div align="center">
@@ -45,3 +45,7 @@ aboutMe = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+<!--
+## Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-cbrlc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
