@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ## I'm a 20 y/o dev who loves tech and programming 💻 <br>
 <!--```javascript
 aboutMe = {
@@ -24,6 +24,7 @@ aboutMe = {
 }
 ```
 -->
+<!--
 - I'm from Guadalajara, México 
 - I'm graduated as a Technologist in Software Development from Industrial Technical Education Center (CETI)
 - I'm studying Computer Engineering at University of Guadalajara (CUCEI)
